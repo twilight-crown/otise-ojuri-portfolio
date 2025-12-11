@@ -9,17 +9,16 @@ p {
   color: black;
   text-align: center;
 }
-a {
+a.sticky {
   text-align: center;
-  position: sticky;
 }
 div {
   background-color:rgb(200, 196, 196);
   color:black;
   padding-top: 250px;
-  padding-right: 400px;
-  padding-left: 400px;
-  padding-bottom: 100px;
+  padding-right: 700px;
+  padding-left: 700px;
+  padding-bottom: 20px;
 }
 
 .button{
